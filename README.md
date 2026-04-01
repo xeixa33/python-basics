@@ -7,6 +7,7 @@ Repositorio con ejercicios iniciales de Python.
 * Variables
 * Operaciones matemáticas
 * Condicionales (if / else)
+* Comando Input y mostrar datos
 
 ## Objetivo
 
@@ -15,3 +16,4 @@ Aprender programación desde cero y construir una base sólida para Data Science
 ## Progreso
 
 Día 1 completado ✅
+Día 2 completado ✅
