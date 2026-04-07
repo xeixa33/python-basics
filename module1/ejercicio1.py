@@ -1,3 +1,3 @@
-nombre = "Xeixa"
-edad = 33
-print(nombre, edad)
+name = "Xeixa"
+age = 33
+print(name, age)
