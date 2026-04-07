@@ -1,19 +1,23 @@
 # python-basics
 
-Repositorio con ejercicios iniciales de Python.
+Repository with beginner Python exercises focused on building a solid foundation for Data Science.
 
-## Contenido
+## Content
 
 * Variables
-* Operaciones matemáticas
-* Condicionales (if / else)
-* Comando Input y mostrar datos
+* Mathematical operations
+* Conditionals (if / else)
+* Input and output
+* Functions
+* Lists and basic data analysis
 
-## Objetivo
+## Goal
 
-Aprender programación desde cero y construir una base sólida para Data Science y Machine Learning.
+Learn programming from scratch and develop practical skills applied to data analysis.
 
-## Progreso
+## Progress
 
-Día 1 completado ✅
-Día 2 completado ✅
+- Module 1: Fundamentals (variables, operations, input) ✅
+- Module 2: Control flow (if / else) ✅
+- Module 3: Functions and program structure ✅
+- Module 4: Lists and basic data analysis ✅
